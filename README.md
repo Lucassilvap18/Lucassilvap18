@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Silva
 - 👀 I’m interested in internship vacancies.
-- 🌱 I’m currently learning HTML5, CSS3, JS.
+- 🌱 I’m currently learning HTML5, CSS3, BOOTSTRAP e JS.
 - 💞️ I’m looking to collaborate on In the creation and development of projects.
 - 📫 How to reach me 
 
