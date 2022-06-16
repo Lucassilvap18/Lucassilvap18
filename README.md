@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Lucas Silva
-- 👀 I’m interested in internship vacancies.
-- 🌱 I’m currently learning HTML5, CSS3, BOOTSTRAP e JS.
-- 💞️ I’m looking to collaborate on In the creation and development of projects.
-- 📫 How to reach me 
+Olá, me chamo Lucas Silva 👋
+🛸 Curso Analise e desenvolvimento de sistemas  - ESTACIO.
+🔭 No momento estou a procura de emprego como desenvolvedor front end.
+🌱 Estudando FrontEnd (html, css, js, bootstrap, angular).
+📫 Contate-me no email: Lucasclub08@gmail.com
+
 
 <!---
 Lucassilvap18/Lucassilvap18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
