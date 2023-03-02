@@ -19,13 +19,10 @@
   ##
   
   <h4> Tecnologias sendo estudadas no momento
-  <br>
-  
+  <br><br>
   <img align="center" alt="lucas-Csharp" height="30" width="40" src="https://img.icons8.com/nolan/256/angularjs.svg">
-  
-  
-  
-  <br>
+  <br><br>
+ 
   
   
  
