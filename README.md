@@ -1,6 +1,10 @@
-## Oi eu sou o Lucas Silva, Estudante de programação e tecnologia!
 
-<h2>Tecnologias mais utilizadas 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Lucas+Silva;I'm+19+years+old;I'm+a+FrontEnd+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+
+
+
+<h1>Tecnologias mais utilizadas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,6 +17,17 @@
   
   
   ##
+  
+  <h4> Tecnologias sendo estudadas no momento
+  <br>
+  
+  <img align="center" alt="lucas-Csharp" height="30" width="40" src="https://img.icons8.com/nolan/256/angularjs.svg">
+  
+  
+  
+  <br>
+  
+  
  
 <div> 
   
