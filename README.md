@@ -86,7 +86,8 @@ I work as a front end developer using the main languages, such as angular, node,
 
 <br/>
 
-## CCONTACT ME
+
+## CONTACT ME
 
 <div align="center">
   <a href="https://github.com/Lucassilvap18" target="_blank">
