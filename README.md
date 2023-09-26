@@ -6,7 +6,6 @@
 
 I work as a front end developer using the main languages, such as angular, node, react. always praying for clean codes.
 
-- 🌍 I'm based in Ceará, Brazil
 - 🎓 Graduating in analysis and development from Estacio de Sá
 - 🚀 Systems analyst at the Dra Telma Menezes laboratory.
 - 📌 Currently working with angular, node and typescript.
