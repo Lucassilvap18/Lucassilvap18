@@ -7,7 +7,6 @@
 I work as a front end developer using the main languages, such as angular, node, react. always preserving for clean codes.
 
 - 🎓 Graduating in analysis and development from Estacio de Sá
-- 🚀 Systems analyst at the Dra Telma Menezes laboratory.
 - 📌 Currently working with angular, node and typescript.
 
 
