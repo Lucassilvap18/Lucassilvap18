@@ -5,7 +5,7 @@ I work as a DevOps Engineer, focusing on automation, scalability, and cloud solu
 My main skills include container orchestration, infrastructure as code, and configuration management.
 I have experience with public clouds (AWS and GCP), and I hold certifications in this field.
 
-🎓 Postgraduate student in DevOps Engineering
+🎓 Graduated in systems analysis and development
 
 ☁️ Google Cloud Associate Cloud Engineer (Certified)
 
