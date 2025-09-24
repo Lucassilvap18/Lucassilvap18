@@ -3,7 +3,7 @@
 
 I work as a DevOps Engineer, focusing on automation, scalability, and cloud solutions.
 My main skills include container orchestration, infrastructure as code, and configuration management.
-I have experience with public clouds (AWS and GCP), and I hold professional certifications in this field.
+I have experience with public clouds (AWS and GCP), and I hold certifications in this field.
 
 🎓 Postgraduate student in DevOps Engineering
 
