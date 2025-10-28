@@ -11,7 +11,7 @@ I have experience with public clouds (AWS and GCP) and hold certifications in th
 
 📜 Oracle Certified
 
-🛠️ Experience with Docker, Kubernetes, Terraform, Ansible, Puppet, Jenkins, AWS, and GCP
+🛠️ Experience with Docker, Kubernetes, Terraform, Ansible, Jenkins, AWS, and GCP
 
 <br/>
 My Skill Set
